@@ -1,0 +1,24 @@
+.turma-update input{
+    max-width: 700px;
+    background: aliceblue;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+    font-size: 14px;
+    color: dimgray;
+}
+
+.turma-update label{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+.voltar{
+    margin-left: 10px !important;
+    text-decoration: none;
+    color: rgb(255, 255, 255) !important;
+}
+
+
